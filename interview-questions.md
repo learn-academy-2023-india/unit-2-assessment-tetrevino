@@ -10,32 +10,32 @@ Type your initials here to confirm you read the instructions:
 
 1. What is the difference between a parameter and an argument?
 
-Your answer:
+Your answer: A parameter is the placeholder that is passed through a function, an argument is the actual a value at the function invocation
 
-Researched answer:
+Researched answer: A parameter is the defined values within the function, the argument is the real value passed through at the invocation
 
 2. What is the difference between an object and a class?
 
-Your answer:
+Your answer: An object has a key:value pairing that can be referenced by dot notation (ex. myObject.key()). A class is blueprint of how to create multiple objects.
 
-Researched answer:
+Researched answer: A class is the blueprint to make an object in JS. an object is the key:value pairing assigned within the class and be referenced by the key value.
 
 3. What is iteration?
 
-Your answer:
+Your answer: An iteration is the cycle at which data/value is processed, each iteration can have different ways to process data that it is given.
 
-Researched answer:
+Researched answer: Iteration is when we execute code once for each item in a collection, like an array.
 
 4. STRETCH: What is hoisting in JavaScript?
 
-Researched answer:
+Researched answer: When JS moves all declarations to the top of a given scope. To properly interept the code it needs access the variable before it has been declared.
 
 ## Looking Ahead: Terms for Next Unit
 
 Research and define the following terms. Hint: use the syllabus!
 
-1. React State:
+1. React State: Is component management within a given component.
 
-2. React Props:
+2. React Props: Pass data from a parent component to a child component.
 
-3. JSX:
+3. JSX: A mixture of JavaScript and HTML syntax that makes code easier to understand. 
